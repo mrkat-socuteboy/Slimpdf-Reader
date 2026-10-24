@@ -211,4 +211,4 @@ SlimPDF Reader is the full free version with all features and updates included. 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-24 20:07:27 UTC
+**Last updated:** 2026-10-24 22:50:35 UTC
